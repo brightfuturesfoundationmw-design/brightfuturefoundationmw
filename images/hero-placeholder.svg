@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#eaf6ed"/><circle cx="950" cy="140" r="95" fill="#f3cf38"/>
+<path d="M0 560 Q260 410 520 560 T1200 540 V700 H0Z" fill="#247a45"/>
+<path d="M0 620 Q300 500 650 620 T1200 600 V700 H0Z" fill="#8b5a2b"/>
+<text x="600" y="320" text-anchor="middle" font-family="Arial" font-size="48" font-weight="700" fill="#183c2a">Replace with your BFF hero photo</text>
+<text x="600" y="370" text-anchor="middle" font-family="Arial" font-size="26" fill="#355f48">Community • Opportunity • Dignity</text></svg>
